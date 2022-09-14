@@ -29,3 +29,5 @@ Olá meu nome é Arthur Dantas, tenho 23 anos.
   <img align="center" alt="Arthur Dantas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Arthur Dantas-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+  
+  ![Snake animation](https://github.com/ArthurGBD/ArthurGBD/blob/output/github-contribution-grid-snake.svg)
